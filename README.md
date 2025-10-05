@@ -1,15 +1,33 @@
 
+<p align="center">
+  <img src="https://i.pinimg.com/1200x/68/90/1f/68901f537a558b237c938aebd73adab4.jpg" alt="security icon" width="90"/>
+</p>
+
 
 <h1 align="center">👋 Hi, I'm Faraj Sayyad </h1>
 <h3 align="center">💻 Network Security Engineer | CCNA | CCNP | CCIE SECURITY | Cybersecurity Enthusiast</h3>
 
 ---
 
-### 🧠 About Me  
-🔹 Passionate about securing networks and building resilient infrastructure.  
-🔹 Hands-on experience with Cisco ASA, Checkpoint NGFW, and VPN implementations.  
-🔹 Skilled in network automation and threat detection.  
-🔹 Always exploring new security technologies and tools.
+
+ <h3 align="center">🧠 About Me</h3>
+<p align="center">
+  🔹 Passionate about securing networks and building resilient infrastructure.<br>
+  🔹 Hands-on experience with Cisco ASA, Checkpoint NGFW, and VPN implementations.<br>
+  🔹 Skilled in network automation and threat detection.<br>
+  🔹 Always exploring new security technologies and tools.<br>
+</p>
+
+
+---
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Networking-7289DA?style=for-the-badge&logo=networkx&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CCNA-1572B6?style=for-the-badge&logo=cisco&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Network%20Security-FE7A16?style=for-the-badge&logo=fortinet&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-333333?style=for-the-badge&logo=linux&logoColor=yellow"/>
+  <img src="https://img.shields.io/badge/Basics-CDD120?style=for-the-badge"/>
+</p>
 
 ---
 
