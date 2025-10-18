@@ -54,11 +54,11 @@ GRE, Site-to-Site IPsec, DMVPN, IKEv1/v2, mGRE
 #### 🔥 Firewalls  
 Cisco ASA
 NGFW *(Hands-on labs)*
-    ||
-Checkpoint 
-Fortigate
-Paloalto
-    ||
+                ||
+            Checkpoint 
+            Fortigate
+            Paloalto
+                ||
 #### 🔁 Redundancy Protocols  
 HSRP, VRRP, GLBP  
 
