@@ -30,20 +30,24 @@
 </p>
 
 ---
+## 🔗 Core Skills
 
-### ⚙️ Core Skills
+<img align="right" width="320" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Network Programming"/>
 
-#### 🌐 Network Fundamentals  
-OSI Model, TCP/IP, ICMP, ARP, TCP, UDP, FTP, SMTP, TFTP  
+### 🌐 Network Fundamentals
+OSI Model, TCP/IP, ICMP, ARP, TCP, UDP, FTP, SMTP, TFTP
 
-#### 🔁 Routing & Switching  
-RIP, EIGRP, OSPF, VLANs, STP, EtherChannel, VTP, DTP  
+### 🔀 Routing & Switching  
+RIP, EIGRP, OSPF, VLANs, STP, EtherChannel, VTP, DTP
 
-#### 🔒 Security Implementation  
-ACLs, Port Security, DHCP Snooping, Layer 2/3 Security  
+### 🔒 Security Implementation
+ACLs, Port Security, DHCP Snooping, Layer 2/3 Security
 
-#### 🌍 VPNs & Tunneling  
-GRE, Site-to-Site IPsec, DMVPN, IKEv1/v2, mGRE  
+### 🔵 VPNs & Tunneling
+GRE, Site-to-Site IPsec, DMVPN, IKEv1/v2, mGRE
+
+
+
 
 #### 🧩 Cisco Security Solutions  
 - **Cisco ESA** – SMTP/POP3/IMAP filtering, Anti-Spam/Malware  
