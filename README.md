@@ -51,14 +51,17 @@ GRE, Site-to-Site IPsec, DMVPN, IKEv1/v2, mGRE
 - **Cisco ISE** – Policy-based access, 802.1x, Posture Validation  
 - **Cisco DNA Center** – Network Automation & Assurance  
 
-#### 🔥 Firewalls<br />
-Cisco ASA<br />
-NGFW *(Hands-on Labs)*<br />
-           ||<br />
-       Checkpoint<br />
-       Fortigate<br />
-       Paloalto<br />
-           ||<br />
+### 🔥 **Firewalls**
+
+<pre>
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/cisco.svg" width="16" height="16"> Cisco ASA
+🛡️ NGFW <i>(Hands-on Labs)</i>
+           ||
+<img src="https://www.checkpoint.com/wp-content/uploads/cp-logo-2024.svg" width="16" height="16"> Checkpoint
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/fortinet.svg" width="16" height="16"> Fortigate  
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/paloaltonetworks.svg" width="16" height="16"> Paloalto
+           ||
+</pre>
 
 #### 🔁 Redundancy Protocols  
 HSRP, VRRP, GLBP  
