@@ -52,13 +52,14 @@ GRE, Site-to-Site IPsec, DMVPN, IKEv1/v2, mGRE
 - **Cisco DNA Center** – Network Automation & Assurance  
 
 #### 🔥 Firewalls  
-Cisco ASA
-NGFW *(Hands-on labs)*
-                ||
-            Checkpoint 
-            Fortigate
-            Paloalto
-                ||
+Cisco ASA  
+NGFW *(Hands-on Labs)*  
+           ||  
+       Checkpoint  
+       Fortigate  
+       Paloalto  
+           ||  
+
 #### 🔁 Redundancy Protocols  
 HSRP, VRRP, GLBP  
 
